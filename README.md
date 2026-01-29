@@ -68,11 +68,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-red-sigma-69.vercel.app/api?username=ffneiva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+  ![GitHub Stats](https://github-readme-stats-red-sigma-69.vercel.app/api?username=ffneiva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=14400)
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=ffneiva&theme=tokyonight&hide_border=true)
   
-  ![Top Langs](https://github-readme-stats-red-sigma-69.vercel.app/api/top-langs/?username=ffneiva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+  ![Top Langs](https://github-readme-stats-red-sigma-69.vercel.app/api/top-langs/?username=ffneiva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=14400)
 
 </div>
 
